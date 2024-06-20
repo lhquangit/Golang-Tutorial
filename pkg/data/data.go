@@ -1,3 +1,8 @@
+
+// - This package define the fixed data
+// - In the real projects, we define and connect to database here
+
+
 package data
 
 import "learn-golang/pkg/dto"

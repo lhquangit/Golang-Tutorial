@@ -1,3 +1,6 @@
+
+// Define mmdel here
+
 package dto
 
 type Todo struct {
